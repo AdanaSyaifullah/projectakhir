@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">projectakhir</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="signin">LOGIN</string>
+    <string name="btnregis">Belum terdaftar?</string>
+    <string name="btnbelicargo">Beli Sekarang</string>
+    <string name="btnbatalcargo">Batal</string>
+    <string name="btnbelijaket">Beli Sekarang</string>
+    <string name="btnbataljaket">Batal</string>
+    <string name="btnbelitas">Beli Sekarang</string>
+    <string name="btnbataltas">Batal</string>
+    <string name="btnbelitopi">Beli Sekarang</string>
+    <string name="btnbataltopi">Batal</string>
+    <string name="rname">Masukkan Nama</string>
+    <string name="ralamat">Masukkan Alamat</string>
+    <string name="remail">Masukkan Email</string>
+    <string name="rpassword">Masukkan Password</string>
+    <string name="rrepassword">Masukkan Repassword</string>
+    <string name="btnyaa">YA</string>
+</resources>
