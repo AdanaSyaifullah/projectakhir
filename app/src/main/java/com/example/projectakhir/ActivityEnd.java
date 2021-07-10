@@ -21,7 +21,7 @@ public class ActivityEnd extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent i = new Intent(getApplicationContext(), HomeActivity.class);
-                startActivity(i);
+                startActivity(i); //berpindah layout
             }
         });
     }
